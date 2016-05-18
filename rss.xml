@@ -4,14 +4,14 @@
         <description><![CDATA[Hans Kainz]]></description>
         <link>https://thegrid.ai/hanskainz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 09:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 09:29:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hanskainz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Test Post 1</p>]]></description>
             <link>https://thegrid.ai/hanskainz/test-post-1/index.html</link>
             <guid isPermaLink="false">277a802a-51f6-487a-8eae-e51ebec79d57</guid>
-            <pubDate>Wed, 18 May 2016 09:20:59 GMT</pubDate>
+            <pubDate>Wed, 18 May 2016 09:29:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
