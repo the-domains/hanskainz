@@ -1,0 +1,28 @@
+name: hanskainz
+favicon: null
+layout_spectrum: 0.37516485108062625
+typography_spectrum: 0.27326128678396344
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8799439372960478
+  lightness: 0.46274466160684824
+  saturation: 0.4089025624562055
+  rhythmicContrast: 0.4098752192221582
+purpose: []
