@@ -2,12 +2,13 @@ name: hanskainz
 favicon: null
 layout_spectrum: 0.37516485108062625
 typography_spectrum: 0.27326128678396344
+title: Hans Kainz
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-1418169-7
   facebook: null
   twitter: null
 opengraph:
